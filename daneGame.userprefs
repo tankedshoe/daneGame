@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{E84E71B2-6099-4D97-9806-C4280C682493}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="daneGame/Controller/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="daneGame/Model/Player.cs">
     <Files>
       <File FileName="daneGame/Controller/SpaceGame.cs" Line="7" Column="30" />
-      <File FileName="daneGame/Controller/Program.cs" Line="14" Column="30" />
+      <File FileName="daneGame/Controller/Program.cs" Line="13" Column="1" />
+      <File FileName="daneGame/Model/Player.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
