@@ -11,7 +11,7 @@ using UIKit;
 #endif
 #endregion
 
-namespace daneGame
+namespace daneGame.Controller
 {
 #if __IOS__ || __TVOS__
     [Register("AppDelegate")]
